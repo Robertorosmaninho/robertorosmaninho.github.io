@@ -29,3 +29,5 @@ linkedin: robertorosmaninho
 
 # needed for travis-ci build
 exclude: [vendor]
+
+include: [".well-known"]
